@@ -1,0 +1,48 @@
+﻿  main.cpp
+e:\calibration\include\opencv2\core\mat.hpp(1964): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\calibration\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\calibration\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\calibration\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\calibration\imglib\basicimagearray.h(434): warning C4477: “fprintf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“double”
+  e:\calibration\imglib\basicimagearray.h(415): note: 编译 类 模板 成员函数 "bool CBasicImageArray<float>::Dump2TextFile(char *)" 时
+  e:\calibration\imglib\rgbyuvimage.h(93): note: 参见对正在编译的 类 模板 实例化 "CBasicImageArray<float>" 的引用
+  MonoCalib.cpp
+e:\calibration\include\opencv2\core\mat.hpp(1964): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\calibration\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\calibration\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\calibration\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  StereoCalibration.cpp
+e:\calibration\include\opencv2\core\mat.hpp(1964): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\calibration\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\calibration\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\calibration\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\calibration\calibration\stereocalibration.cpp(75): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\calibration\calibration\stereocalibration.cpp(82): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\calibration\calibration\stereocalibration.cpp(83): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\calibration\calibration\stereocalibration.cpp(84): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\calibration\calibration\stereocalibration.cpp(88): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\calibration\calibration\stereocalibration.cpp(89): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\calibration\calibration\stereocalibration.cpp(302): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\calibration\calibration\stereocalibration.cpp(307): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\calibration\calibration\stereocalibration.cpp(523): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+e:\calibration\calibration\stereocalibration.cpp(524): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+e:\calibration\calibration\stereocalibration.cpp(651): warning C4018: “<”: 有符号/无符号不匹配
+e:\calibration\imglib\basicimagearray.h(434): warning C4477: “fprintf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“double”
+  e:\calibration\imglib\basicimagearray.h(415): note: 编译 类 模板 成员函数 "bool CBasicImageArray<float>::Dump2TextFile(char *)" 时
+  e:\calibration\imglib\rgbyuvimage.h(93): note: 参见对正在编译的 类 模板 实例化 "CBasicImageArray<float>" 的引用
+  UnitTestDistortImagePixelDitance.cpp
+e:\calibration\include\opencv2\core\mat.hpp(1964): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\calibration\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\calibration\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\calibration\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\calibration\imglib\basicimagearray.h(434): warning C4477: “fprintf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“double”
+  e:\calibration\imglib\basicimagearray.h(415): note: 编译 类 模板 成员函数 "bool CBasicImageArray<float>::Dump2TextFile(char *)" 时
+  e:\calibration\imglib\rgbyuvimage.h(93): note: 参见对正在编译的 类 模板 实例化 "CBasicImageArray<float>" 的引用
+  Undistortion.cpp
+e:\calibration\calibration\undistortion.cpp(34): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\calibration\calibration\undistortion.cpp(36): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\calibration\imglib\basicimagearray.h(434): warning C4477: “fprintf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“double”
+  e:\calibration\imglib\basicimagearray.h(415): note: 编译 类 模板 成员函数 "bool CBasicImageArray<float>::Dump2TextFile(char *)" 时
+  e:\calibration\imglib\rgbyuvimage.h(93): note: 参见对正在编译的 类 模板 实例化 "CBasicImageArray<float>" 的引用
+  正在生成代码...
+  Calibration.vcxproj -> E:\Calibration\Debug\Calibration.exe
