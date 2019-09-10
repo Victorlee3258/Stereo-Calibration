@@ -18,14 +18,18 @@ Dual camera calibration for mobile phone.
 # change log:
 
 --- 2018.06.11
+
 (1) add and test mono calibration over, for now get better result than only use dual calibration. 
 
 --- 2018.06.21
+
 (2) downscale image size to speed up corners detection for large image size type;
 (3) add a init file which save all parameters for different camera type；						     
 
 --- 2018.06.13
+
 (4)add code to test undistort image pixel distance with different distort coeffices;				 
 
 -- 2018.07.10
+
 (5) remove resize main and second images size code.									                 -# note:
